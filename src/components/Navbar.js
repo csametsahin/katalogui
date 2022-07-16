@@ -10,7 +10,7 @@ export default function Navbar() {
         name:'Katalog'
     }]
   return (
-     <div>
+     <div style={{marginBottom:5}}>
     <Box sx={{ flexGrow: 1 }}>
       <AppBar position="static" sx={{backgroundColor:'#22223B'}}>
         <Toolbar>
