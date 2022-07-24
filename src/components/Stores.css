@@ -1,0 +1,22 @@
+
+.slider{
+   width: 70%;
+   justify-content: center;
+   align-items: center;
+   margin: 0 auto;
+}
+.slides{
+    height: 500px;
+    
+}
+.slide{
+  
+    transition: 2s;
+   
+    
+}
+.slide img{
+    object-fit: contain;
+ 
+   
+}

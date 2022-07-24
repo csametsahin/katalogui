@@ -1,0 +1,24 @@
+{
+    "informations": [
+        {
+            "title": "Katalog",
+            "number": 900,
+            "id": 1
+        },
+        {
+            "title": "Art",
+            "number": 4500,
+            "id": 2
+        },
+        {
+            "title": "Üye",
+            "number": 5000,
+            "id": 3
+        },
+        {
+            "title": "Açık Arttırma",
+            "number": 372,
+            "id": 4
+        }
+    ]
+}

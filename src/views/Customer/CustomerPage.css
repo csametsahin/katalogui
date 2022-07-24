@@ -1,0 +1,5 @@
+.sayfa{
+    background: var(--white-100);
+    padding: 40px;
+    height: 100%;
+}
